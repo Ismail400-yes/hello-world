@@ -19,10 +19,13 @@
 - (*Optional*) To be able to spin a wheel by pressing a button, so we can gamble for cool items that can be attached to your profile to make you look cooler.
 - (*Optional*) To be able to change your own profile picture by clicking on it.
 - To have a login page.
+- To be able to customise the app, such as a different background colour.
+- Notifications of new messages, or number next to groupchat. 
 - **Most of these actions occur from pressing a button.**
 
 **Non-Functional:**
 - Most functions can occur in less than a second.
 - Buttons can make a cool clicking sound and move up and down.
 - (*Optional*) Gambling wheel spins faster then slower, like roulette
-- Messages come in quickly. 
+- Messages come in quickly.
+- Updates, such as notifications on messages are updated quickly. 
