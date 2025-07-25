@@ -1,4 +1,4 @@
-# Web application, functionals and Non-functionals
+# Web application, Functionals and Non-functionals
 
 ## **Project Definition and Requirements**
 
