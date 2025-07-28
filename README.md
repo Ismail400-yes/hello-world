@@ -7,7 +7,6 @@
 - 3 webpages
 
 ### **Web Application Purpose:**
-**Notes:**
 - To give accessibility for users to communicate to other users through group chats or personal chats in friend requests.
 - To explore other group chats in the app and chat about common topics.
 - (*Optional*) To be able to develop your own inventory and profile by buying badges or upgrading your inventory with cool items through gambling. **Each gambling comes from every 25th message**.
