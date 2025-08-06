@@ -30,7 +30,7 @@
 - Updates, such as notifications on messages are updated quickly. 
 
 The image below is a screenshot of my first design for UI
-![Basic UI: first design of webpage interface]:(/images/image.png) 
+![Basic UI: first design of webpage interface](image.png) 
 
 ## Basic Design of UI, Hierachy and Interactive Elements
 
