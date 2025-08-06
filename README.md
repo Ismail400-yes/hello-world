@@ -28,3 +28,17 @@
 - (*Optional*) Gambling wheel spins faster then slower, like roulette
 - Messages come in quickly.
 - Updates, such as notifications on messages are updated quickly. 
+
+The image below is a screenshot of my first design for UI
+![Basic UI: first design of webpage interface]: image.png
+
+## Basic Design of UI, Hierachy and Interactive Elements
+
+### Colour
+The colour here that I wanted to add was a basic, black, dark pink/purple colour, because it matches with the app's colour and is not prominent while messaging friends and getting disgusted or distracted by the colour, but settles the user into the calm, enjoyable setting of a nice chat with friends.
+
+### Typography
+The typography here is to be basic, or maybe fancy. I'm not too sure of what to do for it, since I'm not sure what 'vibe' I'm trying to express to in my app, but the size of each text would be reflective of its purpose. More significant text, such as headlines of significant webpages or parts of the webpage are in larger, bolder text, such as chats and vice versa.
+
+### Image
+The images in my webpage are used for a purpose. For instance, the app's icon is the button used to return to the homepage of the app, or the image of the user's profile can be tapped on to see their description for their own customisability. These images should be small, as it is not the main functionals of the website. The functionals of messaging friends through any images used will be expressed in a large size to clearly display the the image to other users.
