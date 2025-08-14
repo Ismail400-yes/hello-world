@@ -40,10 +40,76 @@ The colour here that I wanted to add was a basic, black, dark pink/purple colour
 ### Typography
 The typography here is to be basic, or maybe fancy. I'm not too sure of what to do for it, since I'm not sure what 'vibe' I'm trying to express to in my app, but the size of each text would be reflective of its purpose. More significant text, such as headlines of significant webpages or parts of the webpage are in larger, bolder text, such as chats and vice versa.
 
-### Image
+### Image/Icon Choice
 The images in my webpage are used for a purpose. For instance, the app's icon is the button used to return to the homepage of the app, or the image of the user's profile can be tapped on to see their description for their own customisability. These images should be small, as it is not the main functionals of the website. The functionals of messaging friends through any images used will be expressed in a large size to clearly display the the image to other users.
 
 ## Alternative Design - Playing with Possibilities
 
 The image below is a screenshot of my alternate UI design. The group chat, chat, forum and profile customisability design is same as the basic UI design and the method to enter is the same.
 ![Alternate UI: second design of webpage interface](image-1.png) 
+
+### Colour
+
+
+### Typography
+
+
+### Image/Icon Choice
+
+
+## Designing algorithms - functional steps for user focused design
+
+### Pseudocode
+![Flowchart of how functional component works](image-2.png)
+
+### Test Case
+*Test Case ID*
+- TC001
+
+*Test Case Name*
+- Verify login credentials to provide user access to app
+
+*Preconditions*
+- User must have registered account, or an email to access and add new username and password crednetials.
+
+*Test Steps*
+- Open application
+- Enter username and password
+- Press Login button
+- Enter homepage
+
+If no username, password:
+- Enter user ID
+- Type new username and password.
+- Type again new username and password to confirm
+- Press Enter
+- Return to login page.
+
+*Expected Result*
+- To enter homepage
+
+*Priority*
+- High
+
+**New Test Case**
+*Test Case ID*
+- TC002
+
+*Test Case Name*
+- Operating messaging function in messaging tab.
+
+*Preconditions*
+- User must have already logged into app and clicked on another user's icon to enter their messaging tab.
+
+*Test Steps*
+- Type in message bar of page.
+- Add image in bar with text
+- Press enter
+- Display message
+- Click app icon to return to homepage.
+
+*Expected Result*
+- To display typed message on message tab for other user and oneself to see, then return to homepage.
+
+*Priority*
+- High
