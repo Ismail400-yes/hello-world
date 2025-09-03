@@ -1,0 +1,20 @@
+-- database: c:\Users\amulj\Github Projects\hello-world\data_source.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT Email FROM `User Table`;
+
+
+SELECT Username FROM `User Table` 
+WHERE Email is NOT NULL;
+
+
+select Is_Group from `Conversation Table`
+ORDER BY TRUE;  
+
+select `Messaging Table`.`User ID`, `Participation Table`.`Conversation ID`, `Messaging Table`.`Content` From `Messaging Table`
+Inner Join `Participation Table` ON `Participation Table`.`Conversation ID` = `Messaging Table`.`Conversation ID`
+
+
+SELECT `Personal Customisation`.`User ID`, `Messaging Table`.`Conversation ID`, `Personal Customisation`.`Description` FROM `Personal Customisation`
+INNER JOIN `Personal Customisation` ON `Personal Customisation`.`User ID` = `Messaging Table`.`User ID`
