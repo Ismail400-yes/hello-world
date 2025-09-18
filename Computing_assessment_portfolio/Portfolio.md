@@ -46,7 +46,7 @@ The images in my webpage are used for a purpose. For instance, the app's icon is
 ## Alternative Design - Playing with Possibilities
 
 The image below is a screenshot of my alternate UI design. The group chat, chat, forum and profile customisability design is same as the basic UI design and the method to enter is the same.
-![Alternate UI: second design of webpage interface](image-1.png) 
+![Alternate UI: second design of webpage interface](UI.png) 
 
 ### Colour
 The colour is similar to the original UI, and is still inspired by the colour scheme of the logo, but now is slightly different shade.
@@ -60,7 +60,7 @@ Image and icon choice have remained the same compared to the original UI, becaus
 ## Designing algorithms - functional steps for user focused design
 
 ### Pseudocode
-![Flowchart of how functional component works](image-2.png)
+![Flowchart of how functional component works](Alternate_UI.png)
 
 ### Test Case
 *Test Case ID*
