@@ -118,4 +118,7 @@ If no username, password:
 ## Adding Interactivity
 
 ### Chrome Lighthouse 
-![Lighthouse Analysis - Chrome](image-2.png)
+![Lighthouse Analysis - Chrome](Chrome_Lighthouse.png)
+
+### Microsoft Lighthouse
+![Lighthouse Analysis - Microsoft](Microsoft_Lighthouse.png)
