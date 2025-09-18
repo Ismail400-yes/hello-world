@@ -49,13 +49,13 @@ The image below is a screenshot of my alternate UI design. The group chat, chat,
 ![Alternate UI: second design of webpage interface](image-1.png) 
 
 ### Colour
-
+The colour is similar to the original UI, and is still inspired by the colour scheme of the logo, but now is slightly different shade.
 
 ### Typography
-
+I plan to retain the same text type as it already seems appropriate and I like it. I might play around with other text types, depending on if I find any new ones I like.
 
 ### Image/Icon Choice
-
+Image and icon choice have remained the same compared to the original UI, because it encompasses the original beauty and simplicity of the website, such as the logo or settings button.
 
 ## Designing algorithms - functional steps for user focused design
 
