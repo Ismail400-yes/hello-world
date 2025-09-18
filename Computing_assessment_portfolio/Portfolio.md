@@ -114,3 +114,8 @@ If no username, password:
 
 *Priority*
 - High
+
+## Adding Interactivity
+
+### Chrome Lighthouse 
+![Lighthouse Analysis - Chrome](image-2.png)
